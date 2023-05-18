@@ -1,2 +1,4 @@
 # Ricobit-and-spidergon
-python script code used in diploma work
+Код на языке Python, использованный при выполнении ВКР.
+DiplomCompare1 - скрипт для создания датасета са статическими параметрами топологий RiCoBiT и spidergon, а также подсчет недостающих параметров для циркулянтных топологий 2,3 и 4 размерностей. Также тут есть скрипты для сравнения параметров тополгий. Для работы скрипта необходимы файлы dimension2.xlsx, dimension3.xlsx, dimension4.xlsx, которые находятся в папке data.
+DiplomCompare2 - скрипт для сравнения иерархических топологий SCCN_0 и SCCN_2 с топологией RiCoBiT.Для работы скрипта необходимы файлы hafizur0.csv и hafizur_paley0.csv, которые находятся в папке data.
